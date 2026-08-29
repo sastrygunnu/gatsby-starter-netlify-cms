@@ -1,0 +1,68 @@
+{
+  "roles": [
+    {
+      "company": "Gaps and Bridges Inc.",
+      "title": "Mobile Technical Architect",
+      "dates": "Mar 2023 – Present",
+      "location": "Dallas–Fort Worth",
+      "honors": [],
+      "note": null
+    },
+    {
+      "company": "Temenos",
+      "title": "Principal Technical Consultant",
+      "dates": "Dec 2012 – Feb 2023",
+      "location": null,
+      "honors": [
+        "Kony Long Service Award, Mar 2018",
+        "Kony Team Excellence, Aug 2015",
+        "Temenos Quarterly Gem Awards"
+      ],
+      "note": "Kony was acquired into Temenos. This is one role, not a separate Kony listing."
+    },
+    {
+      "company": "Prithvi Information Solutions Ltd",
+      "title": "Sr. Software Engineer",
+      "dates": null,
+      "location": null,
+      "honors": [],
+      "note": null
+    },
+    {
+      "company": "NINE DEGREE SOFTWARE SOLUTIONS PRIVATE LIMITED",
+      "title": "Founder",
+      "dates": null,
+      "location": null,
+      "honors": [],
+      "note": null
+    }
+  ],
+  "education": [
+    {
+      "school": "The University of Texas at Austin",
+      "program": "Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications",
+      "dates": "Dec 2025"
+    }
+  ],
+  "credentials": [
+    {
+      "name": "TOGAF Enterprise Architecture Practitioner",
+      "issuer": "The Open Group",
+      "dates": "Jul 2024"
+    }
+  ],
+  "patents": [
+    {
+      "number": "63/993,650",
+      "title": "Authorization-Based Control Plane for Autonomous Artificial Intelligence Agents in Regulated Systems",
+      "filed": "Feb 28, 2026",
+      "kind": "Provisional application"
+    },
+    {
+      "number": "63/946,181",
+      "title": "AI-Driven Personalized Financial Challenge Engine for Automated Spending Behavior Optimization",
+      "filed": "Dec 21, 2025",
+      "kind": "Provisional application"
+    }
+  ]
+}
