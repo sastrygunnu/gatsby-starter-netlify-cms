@@ -1,0 +1,19 @@
+{
+  "name": "Sastry Kasibotla",
+  "shortName": "Sastry",
+  "initials": "SK",
+  "url": "https://sastry.dev",
+  "email": "gunnu.sastry@gmail.com",
+  "location": "Dallas–Fort Worth",
+  "title": "Sastry Kasibotla",
+  "description": "Notes on digital banking, mobile architecture, and production AI. Written from delivery work, not from a demo.",
+  "thesis": [
+    "Banking systems fail in the gaps between the screen, the APIs behind it, and the customer who has to live with the result.",
+    "I write about the production work that makes those systems changeable without breaking trust."
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/sastry-kasibotla/",
+    "x": "https://x.com/SastryKasibotla",
+    "github": "https://github.com/sastrygunnu"
+  }
+}
